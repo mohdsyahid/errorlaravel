@@ -1,0 +1,8 @@
+Your lock file does not contain a compatible set of packages. Please run composer update.
+sol : 
+$ composer install --ignore-platform-reqs 
+ 
+或者
+ 
+$ composer update --ignore-platform-reqs
+ 
